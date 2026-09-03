@@ -1,6 +1,8 @@
 # Global Superstore Sales Analysis
 
+
 ## 📊 Project Overview
+
 
 This project presents an end-to-end analysis of the Global Superstore dataset using SQL and Microsoft Power BI.
 
@@ -34,7 +36,6 @@ SQL was used for data exploration, analysis, aggregations, window functions, vie
 
 ---
 
-## 📊 Dashboard Preview
 
 ## 📊 Dashboard Preview
 
@@ -43,8 +44,8 @@ SQL was used for data exploration, analysis, aggregations, window functions, vie
 
 ![Global Superstore Dashboard 2](Screenshots/Global_Superstore_Dashboard_2.png)
 
+
 ![Global Superstore Dashboard 3](Screenshots/Global_Superstore_Dashboard_3.png)
-Screenshots/Global_Superstore_Dashboard  1.png
 
 ---
 
@@ -74,21 +75,64 @@ Screenshots/Global_Superstore_Dashboard  1.png
 
 ---
 
-## 📁 Project Structure
+## 🧠 Skills Demonstrated
 
-```text
-Global-Superstore-Sales-Analysis/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Global_Superstore_Dashboard.pbix
-│
-├── SQL/
-│   └── Global_Superstore_Analysis.sql
-│
-├── Data/
-│   └── Global_Superstore.csv
-│
-└── Screenshots/
-    └── Global_Superstore_Dashboard.png
+### SQL
+
+Data Exploration
+Aggregations
+GROUP BY
+HAVING
+Subqueries
+Window Functions
+Ranking
+Views
+JOINs
+
+### Power BI
+
+Data Transformation
+Data Modeling
+DAX
+KPI Development
+Interactive Visualizations
+Dashboard Design
+Business Insights
+
+### Analytics
+
+Sales Analysis
+Profitability Analysis
+Customer Analysis
+Product Analysis
+Geographical Analysis
+Discount Analysis
+Time-Series Analysis
+Business Recommendations
+
+----
+
+## 🚀 How to Open the Project
+
+### Power BI Dashboard
+
+1. Install Microsoft Power BI Desktop.
+2. Open the PowerBI folder.
+3. Open Global_Superstore_Dashboard.pbix.
+4. select:
+5. Data/Global_Superstore.csv
+
+### SQL Analysis
+
+Open the SQL folder.
+Open:
+1. Global_Superstore_Analysis.sql
+2. Connect to a compatible SQL database.
+3. Create/import the Global Superstore dataset.
+4. Run the SQL queries section .
+
+----
+
+## 👨‍💻 Author
+
+**Sagar Deekonda**
